@@ -11,6 +11,7 @@ General Languages and versions
 
 Change mysql setting
 
+            (First create a database)
        go to settings.py under faceRecog folder.
        change database configuration under DATABASES object.
 
@@ -18,5 +19,5 @@ Change mysql setting
 
 Run -
 
-    python manage.py runserver --nothreading –noreload
+    python manage.py runserver
 
