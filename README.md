@@ -21,3 +21,6 @@ Run -
 
     python manage.py runserver
 
+
+Video Demo URL - 
+https://www.youtube.com/watch?v=5u9VpvTV2BI
